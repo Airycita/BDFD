@@ -11,3 +11,5 @@ Esta pequeña guía explica cómo y qué opciones agregar para los comandos slas
 ![20220312_000559](https://user-images.githubusercontent.com/101444750/158006264-e0dd65b6-e78f-4c2e-b9f3-c6a18da8f827.jpg)
 Nota: Aquí se describe qué significa cada opción.
 ![20220312_001024](https://user-images.githubusercontent.com/101444750/158006353-4dbfe8b7-16ce-49ed-bc1c-5f6c16a4ffb0.jpg)
+# Ban
+Opciones que necesita el comando de ban para funcionar en slash.
