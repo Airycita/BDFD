@@ -13,3 +13,5 @@ Nota: Aquí se describe qué significa cada opción.
 ![20220312_001024](https://user-images.githubusercontent.com/101444750/158006353-4dbfe8b7-16ce-49ed-bc1c-5f6c16a4ffb0.jpg)
 # Ban
 Opciones que necesita el comando de ban para funcionar en slash.
+![Screenshot_20220312_001317](https://user-images.githubusercontent.com/101444750/158006423-f4794480-232a-44ad-8441-153b1b9b05c4.jpg)
+![Screenshot_20220312_001327](https://user-images.githubusercontent.com/101444750/158006424-4f6c9e32-e2ba-4471-a6c8-66011fec6fe3.jpg)
