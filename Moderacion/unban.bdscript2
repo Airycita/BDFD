@@ -1,0 +1,51 @@
+$nomention
+$if[$isSlash==false]
+$onlyPerms[ban;admin;:x: Sólo administradores y personas con el permiso `Banear miembros` están facultados para usar este comando.]
+$if[$argCount[$message]==0]
+$title[Comando de desbaneo.]
+$description[Con este comando puedes desbanear a gente baneada.
+**Usos:**
+Normal: *unban <nombre de usuario>*, *unban <ID de usuario>*
+Slash: */ban <ID de Usuario>*]
+$color[$random[1;999999]]
+$endif
+$if[$argCount[$message]>=1]
+$onlyBotPerms[ban;:x: O-oye, me hace falta el permiso `Banear miembros` para poder desbanear.]
+$if[$isNumber[$message]==true]
+$onlyIf[$isBanned[$message[1]]==true;:x: Hey, este miembro ya está baneado.]
+$unbanID[$message]
+$thumbnail[$userAvatar[$findUser[$message[1]]]]
+$title[✅ Usuario desbaneado.]
+$description[$username[$findUser[$message[1]]] fue desbaneado del servidor.]
+$addField[ID:;$findUser[$message[1]]]
+$addField[Admin/mod responsable:;$username[$authorID]#$discriminator[$authorID]]
+$color[82E0AA]
+$footer[$serverName[$guildID]]
+$footerIcon[$serverIcon]
+$else
+$unban[$message]
+$thumbnail[$serverIcon]
+$title[✅ Usuario desbaneado.]
+$description[$message fue desbaneado del servidor.]
+$addField[Admin/mod responsable:;$username[$authorID]#$discriminator[$authorID]]
+$color[82E0AA]
+$footer[$serverName[$guildID]]
+$footerIcon[$serverIcon]
+$endif
+$endif
+$endif
+
+$if[$isSlash==true]
+$suppressErrors[:x: Ocurrió algo inesperado y el comando no se pudo ejecutar.]
+$onlyPerms[ban;admin;:x: Sólo administradores y gente con el permiso `Banear miembros` están facultados para usar este comando.]
+$onlyBotPerms[ban;:x: O-oye, me hace falta el permiso `Banear miembros` para poder desbanear.]
+$onlyIf[$isBanned[$message[1;id]]==true;:x: Hey, este miembro ya está baneado.]
+$unbanID[$message[1;id]]
+$thumbnail[$userAvatar[$findUser[$message[1;id]]]]
+$title[✅ Usuario desbaneado.]
+$description[$findUser[$message[1;id]] fue desbaneado del servidor.]
+$addField[Admin/mod responsable:;$username[$authorID]#$discriminator[$authorID]]
+$color[82E0AA]
+$footer[$serverName[$guildID]]
+$footerIcon[$serverIcon]
+$endif
