@@ -15,4 +15,6 @@ Nota: Aquí se describe qué significa cada opción.
 Opciones que necesita el comando de ban para funcionar en slash.
 ![Screenshot_20220312_001317](https://user-images.githubusercontent.com/101444750/158006423-f4794480-232a-44ad-8441-153b1b9b05c4.jpg)
 ![Screenshot_20220312_001327](https://user-images.githubusercontent.com/101444750/158006424-4f6c9e32-e2ba-4471-a6c8-66011fec6fe3.jpg)
-# Unban![Screenshot_20220312_002720_com jakubtomana discordbotdesinger](https://user-images.githubusercontent.com/101444750/158006827-b18e2cbb-0539-4034-a265-d297aa3c82b7.jpg)
+# Unban
+![Screenshot_20220312_002730](https://user-images.githubusercontent.com/101444750/158006864-51a2a295-a5ca-4e9d-b5d9-f426d5c101ba.jpg)
+
