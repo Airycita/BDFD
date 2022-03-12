@@ -17,4 +17,4 @@ Opciones que necesita el comando de ban para funcionar en slash.
 ![Screenshot_20220312_001327](https://user-images.githubusercontent.com/101444750/158006424-4f6c9e32-e2ba-4471-a6c8-66011fec6fe3.jpg)
 # Unban
 ![Screenshot_20220312_002730](https://user-images.githubusercontent.com/101444750/158006864-51a2a295-a5ca-4e9d-b5d9-f426d5c101ba.jpg)
-
+# Clear
