@@ -19,3 +19,5 @@ Opciones que necesita el comando de ban para funcionar en slash.
 ![Screenshot_20220312_002730](https://user-images.githubusercontent.com/101444750/158006864-51a2a295-a5ca-4e9d-b5d9-f426d5c101ba.jpg)
 # Clear
 ![Screenshot_20220312_003313](https://user-images.githubusercontent.com/101444750/158007000-0d0ddc94-e564-4ed3-b919-b1baeb6537f3.jpg)
+# Timeout 
+![Screenshot_20220321_074057](https://user-images.githubusercontent.com/101444750/159273409-b9994c22-6611-4305-a475-70deae7e8c03.jpg)
