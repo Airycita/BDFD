@@ -26,4 +26,5 @@ Opciones que necesita el comando de ban para funcionar en slash.
 # Untimeout, checkwarns y resetwarns
 ![Screenshot_20220321_075441](https://user-images.githubusercontent.com/101444750/159276049-bff1a233-3b14-42c4-8788-2a1fe543e45d.jpg)
 # Warn y unwarn 
-![Screenshot_20220321_075614](https://user-images.githubusercontent.com/101444750/159276399-157e95fe-c1a3-4251-b771-40b3aa7f7f4e.jpg)
+![Screenshot_20220321_075805](https://user-images.githubusercontent.com/101444750/159276889-859abd71-ea35-4045-a02b-69d2f40b464d.jpg)
+![Screenshot_20220321_075816](https://user-images.githubusercontent.com/101444750/159276893-26a8ca68-300f-42ea-b046-08a3e665a21d.jpg)
